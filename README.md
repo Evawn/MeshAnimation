@@ -25,3 +25,4 @@ or
 ```
 ./Rast mosh_cmu_0511_f_lbs_10_207_0_v1.0.2.fbx
 ```
+Once running, press the right/left arrow keys to speed/slow down the animation. Press 'R' to reset the animation.
