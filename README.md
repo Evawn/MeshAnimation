@@ -1,5 +1,6 @@
 # MeshAnimation
-3D Mesh Animator using Mesh Skinning 
+### 3D Mesh Animator using Mesh Skinning 
+Made by Evan Azari and Chuckwuemeka Ubakanma
 
 ## INSTRUCTIONS TO RUN:
 First, unzip ```ext.zip```
